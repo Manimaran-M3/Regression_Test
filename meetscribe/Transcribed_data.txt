@@ -1,0 +1,25 @@
+[2025-04-15 23:36:16] C:\Users\MANIMARAN\AppData\Local\Programs\Python\Python39\lib\site-packages\whisper\transcribe.py:126: UserWarning: FP16 is not supported on CPU; using FP32 instead
+  warnings.warn("FP16 is not supported on CPU; using FP32 instead")
+ seconds is super important. A great way to grip an audience's attention is to start with the word imagine. Getting the audience's attention in the first 10 seconds is super important.
+
+
+[2025-04-15 23:38:47] C:\Users\MANIMARAN\AppData\Local\Programs\Python\Python39\lib\site-packages\whisper\transcribe.py:126: UserWarning: FP16 is not supported on CPU; using FP32 instead
+  warnings.warn("FP16 is not supported on CPU; using FP32 instead")
+ seconds is super important. A great way to grip an audience's attention is to start with the word imagine. Getting the audience's attention in the first 10 seconds is super important.
+
+
+[2025-04-16 10:45:30] C:\Users\MANIMARAN\AppData\Local\Programs\Python\Python39\lib\site-packages\whisper\transcribe.py:126: UserWarning: FP16 is not supported on CPU; using FP32 instead
+  warnings.warn("FP16 is not supported on CPU; using FP32 instead")
+ seconds is super important. A great way to grip an audience's attention is to start with the word imagine. Getting the audience's attention in the first 10 seconds is super important.
+
+
+[2025-04-16 12:07:38] C:\Users\MANIMARAN\AppData\Local\Programs\Python\Python39\lib\site-packages\whisper\transcribe.py:126: UserWarning: FP16 is not supported on CPU; using FP32 instead
+  warnings.warn("FP16 is not supported on CPU; using FP32 instead")
+ seconds is super important. A great way to grip an audience's attention is to start with the word imagine. Getting the audience's attention in the first 10 seconds is super important.
+
+
+[2025-04-16 12:12:16] C:\Users\AppData\Local\Programs\Python\Python39\lib\site-packages\whisper\transcribe.py:126: UserWarning: FP16 is not supported on CPU; using FP32 instead
+  warnings.warn("FP16 is not supported on CPU; using FP32 instead")
+ seconds is super important. A great way to grip an audience's attention is to start with the word imagine. Getting the audience's attention in the first 10 seconds is super important.
+
+
